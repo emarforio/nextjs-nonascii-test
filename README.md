@@ -1,0 +1,1 @@
+# nextjs-nonascii-test
